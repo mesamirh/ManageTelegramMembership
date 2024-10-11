@@ -1,0 +1,6 @@
+telethon
+termcolor
+inputimeout
+pyfiglet
+qrcode
+inquirer
